@@ -1,3 +1,3 @@
 # api
 Simple api github
-use ? python ex.py
+use ? python cl1.py
